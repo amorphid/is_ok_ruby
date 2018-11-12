@@ -1,8 +1,6 @@
 require "is_ok/version"
 
 module IsOK
-  class Error < StandardError; end
-
   class IsResponse
     attr_reader :data
 
