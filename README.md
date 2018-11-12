@@ -35,3 +35,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## Code of Conduct
 
 Everyone interacting in the Ok project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/ok/blob/master/CODE_OF_CONDUCT.md).
+
+## License
+
+[Apache 2.0](LICENSE.md)
