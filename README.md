@@ -1,15 +1,13 @@
-# Ok
+# IsOK
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ok`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A library for making it easier to use ok/error responses in Ruby case statements.  Written by someone who missed case statements with pattern matching in Elixir :)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ok'
+gem 'is_ok'
 ```
 
 And then execute:
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For usage instructions, see [these tests](test/ok_test.rb)
 
 ## Development
 
