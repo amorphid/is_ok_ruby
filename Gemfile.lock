@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ok (0.0.0)
+    is_ok (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -14,8 +14,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.17)
+  is_ok!
   minitest (~> 5.0)
-  ok!
   rake (~> 10.0)
 
 BUNDLED WITH
