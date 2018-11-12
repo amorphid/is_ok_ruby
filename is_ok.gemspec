@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Michael Pope"]
   spec.email         = ["mpope.cr@gmail.com"]
 
-  spec.summary       = "It's OK."
+  spec.summary       = "A library for making it easier to use ok/error responses in Ruby case statements."
   spec.description   = spec.summary
   spec.homepage      = "https://github.com/amorphid/is_ok_ruby"
   spec.license       = "Apache 2.0"
